@@ -16,5 +16,9 @@ while the battery is connected, the pin will be pulled low to signify a
 The pin assignments are:
 
 Fault   -- PIN 8
+
 CHRG -- PIN 9
+
 GND   -- ARDUINO GND
+
+The Pin Mapping is arbitrary, you can use whichever pin's you'd like. Just be sure to change the Code in the appropriate areas.
